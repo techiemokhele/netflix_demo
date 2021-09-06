@@ -19,3 +19,5 @@ Run: npm i movie-trailer
 
 # netflix web app Link
 https://netflix-clone-demo-16a71.web.app/
+
+![image](https://user-images.githubusercontent.com/67394147/132200163-c9399c79-c440-4a47-b66c-fe3cff37c3c0.png)
